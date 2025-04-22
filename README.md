@@ -1,1 +1,2 @@
-# This repo contains code for arduino
+# This repo contains code for arduino in code.c file
+
